@@ -1,0 +1,10 @@
+name: FixAll
+main: james22402.fixallmodification.FixAll.FixAll
+version: 1.0.0
+
+commands:
+   fixall:
+      description: This is a demo command.
+      usage: /<command> <weapons:armor:tools>
+      permission: <plugin name>.basic
+      permission-message: You don't have <permission>
